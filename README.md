@@ -2,6 +2,9 @@
 
 This repository contains a collection of Python examples demonstrating fundamental programming concepts. These examples are designed to help beginners learn Python programming through practical implementations.
 
+### How to run
+`python bigstring.py`, or any other file name
+
 ## Files Overview
 
 ### 1. `bigstring.py`
